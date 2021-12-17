@@ -1,0 +1,98 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    color:#ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size:3vw;
+  }
+  header{
+    background-color: #129799;
+  }
+  .life{
+    width: 100%;
+  }
+  h1{
+    font-size:5vh;
+    float:left;
+    margin-top:15vh;
+    margin-left:5vh;
+  }
+  .topo{
+    display:inline;
+    padding:2vh;
+  }
+  nav{
+    cursor:pointer;
+    text-align: center;
+  }
+  .titulo{
+    display:inline;
+    padding:7vh;
+  }
+  main {
+    background-color: #ffa185;
+  }
+  h2{
+    padding:5vh;
+    font-size:4vw;
+  }
+  p{
+    color:#000000;
+    font-size:2.5vw;
+    margin-left:4vh;
+  }
+  img{
+    margin-top:6vh;
+    margin-left:2vh;
+    width: 50vh;
+    height: 30vh;
+  }
+  .ioga{
+    margin-left:15vh;
+  } 
+  .toca-fita{
+    margin-left:15vh;
+  }
+  .primeira{
+    margin-left:10vh;
+  }
+  button {
+    margin-top:5vh;
+    margin-bottom:5vh;
+    background-color: transparent;
+    font-weight:bold;
+    border: none;
+  }
+  .an{
+    text-decoration: none;
+    list-style: none;
+    color:#000000;
+    display:flex;
+  } 
+  .veja{
+    display:flex;
+    justify-content: center;
+    align-items:inline;
+  }
+  footer {
+    background-color: #129799;
+  }
+  .icon{
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+  }
+  .rodape{
+    text-decoration: none;
+    list-style: none;
+    padding:4vh;
+  }
+  .baixo{
+    display:flex;
+    justify-content: flex-end;
+  }
+  .pe{
+    display:inline;
+  }
+  
